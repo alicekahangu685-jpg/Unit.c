@@ -10,7 +10,7 @@ int main () {
     int height;
     printf("Enter your height:");
     scanf("%d",&height);
-    printf("Your height is %d",1.50);
+    printf("Your height is %d");
     
     float balance;
     printf("Enter your bank balance");
